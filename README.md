@@ -8,7 +8,7 @@ The freeCodeCamp-Rothko-Painting project is a minimalistic representation of Rot
 
 ## Live Version
 
-You can view the live version of this project [here](#).
+You can view the live version of this project [here](https://ahmedmahmoudmmd.github.io/freeCodeCamp-Rothko-Painting/).
 
 ## Features
 
